@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first git repository tutorial.
 <br>
-Author- Soma Prasad Sahoo
+Author- Soma Prasad(Som)
